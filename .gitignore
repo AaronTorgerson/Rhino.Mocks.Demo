@@ -1,0 +1,17 @@
+Debug/
+Release/
+bin/
+obj/
+packages/
+*.user 
+*.suo
+*ReSharper*
+*.sln.cache 
+*.xap 
+*.vspcc 
+*.vscc 
+*.vssscc
+*~
+Data
+*.exe
+*.msi
